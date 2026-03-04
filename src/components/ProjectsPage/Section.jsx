@@ -1,6 +1,6 @@
 import styles from "./Section.module.css";
 
-const Sections = () => {
+const Section = () => {
   return (
     <div className={styles.container}>
       <div className={styles.section}>
@@ -17,4 +17,4 @@ const Sections = () => {
   );
 };
 
-export default Sections;
+export default Section;
