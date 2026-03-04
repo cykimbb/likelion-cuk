@@ -43,6 +43,8 @@
   .footer {
     flex-direction: column-reverse;
     justify-content: center;
+    align-items: baseline;
     gap: 16px;
+    padding: 0 32px;
   }
 }
